@@ -10,6 +10,8 @@ The dataset specifications is as follows:
 * Training samples: - samples
 * Test samples: - samples
 
+# Data Samples
+# How to Use
 \
 [Link to Download the Sub Sample (10%) of dataset](https://pages.github.com/) \
 [Link to Buy and Download the Full dataset](https://pages.github.com/)
