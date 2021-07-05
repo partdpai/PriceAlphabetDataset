@@ -12,6 +12,8 @@ The dataset specifications is as follows:
 
 # Data Samples
 # How to Use
+# Docker
+# Requirements
 \
 [Link to Download the Sub Sample (10%) of dataset](https://pages.github.com/) \
 [Link to Buy and Download the Full dataset](https://pages.github.com/)
